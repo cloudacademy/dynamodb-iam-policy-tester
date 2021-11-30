@@ -4,8 +4,14 @@ A Python Flask application for testing the effect of different AWS IAM policies 
 
 ## Dependencies
 
-- Flask (install with `pip3 install flask`)
-- Boto3 (install with `pip3 install boto3`)
+- Flask
+- Boto3
+
+Install with:
+
+```
+pip3 install -r requirements.txt
+```
 
 ## Usage
 
