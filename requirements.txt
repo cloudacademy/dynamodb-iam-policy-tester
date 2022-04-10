@@ -2,3 +2,27 @@ boto3==1.17.32
 botocore==1.20.32
 Flask==0.11.1
 jinja2==3.0.3
+itsdangerous==2.0.1
+[root@ip-172-31-18-34 dynamodb-iam-policy-tester-0.0.5]# pip3 freeze
+aws-cfn-bootstrap==2.0
+boto3==1.17.32
+botocore==1.20.32
+click==8.1.2
+docutils==0.14
+Flask==0.11.1
+importlib-metadata==4.11.3
+itsdangerous==2.0.1
+Jinja2==3.0.3
+jmespath==0.10.0
+lockfile==0.11.0
+MarkupSafe==2.1.1
+pystache==0.5.4
+python-daemon==2.2.3
+python-dateutil==2.8.2
+s3transfer==0.3.7
+simplejson==3.2.0
+six==1.16.0
+typing-extensions==4.1.1
+urllib3==1.26.9
+Werkzeug==2.1.1
+zipp==3.8.0
